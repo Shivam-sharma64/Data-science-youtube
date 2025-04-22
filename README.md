@@ -10,7 +10,7 @@ This repository contains all the Jupyter Notebooks and Python files used in the 
 ## 📅 Daily Learning Progress
 
 ### ✅ Day 1: Python Basics  
-📹 [Watch Now](https://www.youtube.com/@DATANUGGETz)
+📹 [Watch Now](https://www.youtube.com/watch?v=qaC6yDKcyg4))
 
 ### ✅ Day 2: If Else & Loops in Python (Hindi)  
 📹 [Watch Now](https://www.youtube.com/watch?v=c1SaiQECIvI)
